@@ -1,3 +1,5 @@
+![Preview screenshot](/preview.png)
+
 # **tiptap** for Strapi
 
 > **⚠ Warning:** This is in the proof-of-concept stage. No installation instructions are available at the moment. **Do not use in production**.
