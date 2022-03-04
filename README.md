@@ -1,3 +1,7 @@
+> 👉 Tiptap for Strapi v4: https://github.com/dasmikko/strapi-tiptap-editor
+>
+> ⚠️ Unfortunately this project is dead, at least at the moment because of time constraints. Check the repository linked above created by the community, a project which hopefully will be much more active!
+
 ![Preview screenshot](/preview.png)
 
 # **tiptap** for Strapi
